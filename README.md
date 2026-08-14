@@ -1,1 +1,1 @@
-# Slidegest
+# For studying machine learning
